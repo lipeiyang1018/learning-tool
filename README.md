@@ -6,6 +6,7 @@
 3. config.json 修改配置文件
 4. words.json 添加学习的单词量
 5. 有条件的同学们也可以用的程序基础上修改扩展
+6. https://github.com/lipeiyang1018/learning-tool 本人代码开源仓库
 
 
 
