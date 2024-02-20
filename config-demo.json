@@ -1,0 +1,10 @@
+{
+  "email": "your_email@example.com",
+  "password": "your_password",
+  "parent_email": "parent_email@example.com",
+  "teacher_email": "teacher_email@example.com",
+  "smtp_server": "smtp.example.com",
+  "smtp_port": 587,
+  "total_questions": 100,
+  "passing_score": 95
+}
